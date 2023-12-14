@@ -1,2 +1,2 @@
 # Repayment-Schedule
-Payment table for learning PHP, HTML, CSS, Database, and FilleZilla Client
+Payment table for learning PHP, HTML, CSS, Database, and FileZilla Client
